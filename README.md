@@ -5,9 +5,14 @@ SkillPath is a simple landing page UI design project for an online learning plat
 This project was created as part of a Web Developer Internship task using Figma. The design emphasizes a clean, modern, and responsive interface for both desktop and mobile users.
 
 ✨ Pages
+
 Home Page
+
 Registration Page
+
 Checkout Page
+
+
 🎨 Design Concept
 
 The interface uses a clean and minimal design approach with a blue-based color palette to create a professional and trustworthy impression.
@@ -15,19 +20,29 @@ The interface uses a clean and minimal design approach with a blue-based color p
 Key focus:
 
 Responsive layout
+
 Simple user flow
+
 Modern UI components
+
 Easy navigation
+
 Mobile-friendly design
 
+
 🛠 Tools
+
 Figma
+
 📱 Responsive Design
 
 This project includes:
 
+
 Desktop version
+
 Mobile version
+
 🔗 Figma Prototype
 
 Add your Figma link here:
