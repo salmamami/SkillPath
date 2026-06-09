@@ -31,7 +31,7 @@ Mobile version
 
 Add your Figma link here:
 
-[Paste Your Figma Link]
+https://www.figma.com/proto/840U5fUNMDutoPY4rCHUW4/SkillPath?node-id=37-922&p=f&t=NWDads0XM8hYB5R4-1&scaling=scale-down&content-scaling=fixed&page-id=17%3A216&starting-point-node-id=37%3A922&show-proto-sidebar=1
 
 👩‍💻 Author
 
