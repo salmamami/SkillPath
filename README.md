@@ -19,6 +19,7 @@ Simple user flow
 Modern UI components
 Easy navigation
 Mobile-friendly design
+
 🛠 Tools
 Figma
 📱 Responsive Design
